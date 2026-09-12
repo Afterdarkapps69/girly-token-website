@@ -16,9 +16,9 @@ export const metadata: Metadata = {
   title: "$GIRLY | Is My Girly Free",
   description: "The official $GIRLY token website. Built on Base.",
   icons: {
-    icon: "/girly-avatar.png",
-    shortcut: "/girly-avatar.png",
-    apple: "/girly-avatar.png",
+    icon: "/girly-g-badge.png",
+    shortcut: "/girly-g-badge.png",
+    apple: "/girly-g-badge.png",
   },
 };
 
