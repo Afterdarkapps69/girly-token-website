@@ -7,11 +7,11 @@ export default function Home() {
         <div className="mx-auto flex max-w-[1450px] items-center justify-between px-6 py-5">
           <a href="#" className="flex items-center gap-4">
             <Image
-              src="/girly-avatar.png"
+              src="/new-header-logo.png"
               alt="$GIRLY"
-              width={72}
-              height={72}
-              className="h-16 w-16 rounded-full object-cover"
+              width={144}
+              height={144}
+              className="h-36 w-36 rounded-full object-cover"
               priority
             />
 
