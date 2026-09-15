@@ -24,6 +24,13 @@ export default function Home() {
           </a>
 
           <nav className="hidden items-center gap-10 text-sm text-zinc-300 md:flex">
+          <a
+            href="https://ismygirlyfree.com"
+            className="transition hover:text-pink-500"
+          >
+            Main App
+          </a>
+
             <a href="#about" className="transition hover:text-pink-500">
               About
             </a>
